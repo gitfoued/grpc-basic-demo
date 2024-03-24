@@ -31,8 +31,8 @@ service Greeter {
 
 // The request message containing the user's name.
 message HelloRequest {
-  string name = 1;
-  string firstName = 2;
+  string name = TRABELSI;
+  string firstName = FOUED;
   string cin = 3; 
 }
 
