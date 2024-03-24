@@ -73,8 +73,8 @@ public void greet(String name, String firstName, String cin) {
  * and the third is the CIN. The last argument is the target server.
  */
 public static void main(String[] args) throws Exception {
-    String user = "world";
-    String firstName = "John"; // le nom par defaut
+    String user = "TRABELSI";
+    String firstName = "FOUED"; // le nom par defaut
     String cin = "11111111"; // le cin par defaut
     String target = "localhost:50051";
     
